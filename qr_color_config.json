@@ -3,12 +3,12 @@
         "version": "1.0.0",
         "banner_enable": false,
         "inters_enable": false,
-        "inters_limit": "30"
+        "inters_limit": 30
     },
     "settings_android": {
         "version": "1.0.0",
         "banner_enable": false,
         "inters_enable": false,
-        "inters_limit": "30"
+        "inters_limit": 30
     }
 }
